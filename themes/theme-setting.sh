@@ -4,7 +4,7 @@
 theme=User-Dark.tar
 
 # set git repository base directory here
-url=https://github.com/Margorp/User-Data/raw/master
+url=https://github.com/Margorp/User-Data/raw/master/themes
 
 # download
 wget $url/$theme.tar ~/$theme.tar
